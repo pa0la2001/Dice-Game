@@ -1,0 +1,29 @@
+body {
+    background-color: darkblue;
+    color: yellow;
+   }
+   
+   * {
+   box-sizing: border-box;
+   }
+  
+   
+   button {
+   color: darkblue;
+   padding: 12px; 
+   background-color: yellow;
+   font-size: 24px;
+   border: 1px solid #ccc; 
+   border-radius: 6px; 
+   margin: 10px;
+   }
+   
+   img {
+     max-width: 100%;
+     margin: 10px;
+   }
+   
+   button:hover {
+     opacity: .5;
+     color: blue;
+   }
